@@ -1,0 +1,5 @@
+NAME=mpfr
+VERSION=3.1.5
+REVISION=1
+SRC=http://www.mpfr.org/mpfr-3.1.5/mpfr-3.1.5.tar.xz
+SRCMD5=c4ac246cf9795a4491e7766002cd528f
