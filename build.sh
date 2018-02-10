@@ -2,7 +2,7 @@
 ./configure  --prefix=/usr        \
              --disable-static     \
              --enable-thread-safe \
-             --docdir=/usr/share/doc/mpfr-4.0.0 && \
+             --docdir=/usr/share/doc/mpfr-4.0.1 && \
 make -j $SHED_NUMJOBS && \
 make html && \
 make DESTDIR="$SHED_FAKEROOT" install && \
